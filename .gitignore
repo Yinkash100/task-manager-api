@@ -1,0 +1,3 @@
+.env
+node_modules
+mongo_server_from_local.txt
